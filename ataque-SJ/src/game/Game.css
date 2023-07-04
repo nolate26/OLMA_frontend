@@ -1,6 +1,6 @@
 .Game {
     /* background-color: white; */
-    background-image: url('/assets/img/board.jpg');
+    background-image: url('../public/assets/img/board.jpg');
     background-size: 1000px;
     border-radius: 20px;
     width: 1200px;
