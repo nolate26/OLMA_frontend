@@ -56,7 +56,7 @@ export default function ExampleMove() {
                     style={{ borderStyle: choose_selected ? 'outset' : 'solid' }}
                     onClick={clickSelected}>
                     <div>
-                        <img src='../public/assets/img/soldiers/student1.png' alt="Student" className="student" />
+                        <img src='/assets/img/soldiers/student1.png' alt="Student" className="student" />
                     </div>
                 </div>
                 <div className="block not-selected"

@@ -35,7 +35,7 @@ function PaginaPrincipal() {
           </div>
           <h2>El Tablero de Risk: San Joaquín</h2>
           <div>
-            <img src='../public/assets/img/board.jpg' className='board' alt="Risk San Joaquin" />
+            <img src='/assets/img/board.jpg' className='board' alt="Risk San Joaquin" />
           </div>
           <a href="./instructions" className="rules-link">
             Ver reglas

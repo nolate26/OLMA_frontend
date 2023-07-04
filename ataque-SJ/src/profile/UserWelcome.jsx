@@ -1,7 +1,7 @@
 import { useState, useContext } from "react";
 import './UserWelcome.css'
-import imagenNicolas from '../../public/assets/img/nicolas.png'
-import imagenBorja from '../../public/assets/img/borja.jpeg'
+import imagenNicolas from '/assets/img/nicolas.png'
+import imagenBorja from '/assets/img/borja.jpeg'
 
 export default function UserWelcome() {
 
