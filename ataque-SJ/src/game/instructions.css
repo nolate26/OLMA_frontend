@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "Risk Font";
-    src: url('../public/assets/fonts/RusselSquareOpti.otf')
+    src: url('/assets/fonts/RusselSquareOpti.otf')
 }
 
 * {
